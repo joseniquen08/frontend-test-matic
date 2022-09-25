@@ -1,6 +1,6 @@
 # frontend-test-matic
 
-### Deployment:
+## Deployment
 
 ![Vercel](https://img.shields.io/badge/Vercel-vite-black?style=flat&logo=Vercel)
 
